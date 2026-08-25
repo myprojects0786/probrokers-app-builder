@@ -5,18 +5,18 @@ public final class AppConfig {
     private AppConfig() {
     }
 
-    // Multi-app key: change only this value for another website app.
+    // Multi-app key: build ke waqt automatically replace hoga
     public static final String APP_KEY = "azhar_browser";
 
     public static final String FIREBASE_API_KEY =
-            "AIzaSyA69DdAG4Z4y92mhALVRMkHmj4K_S0ev34";
+            "AIzaSyCOh1ze8_UF3GLj5aqqjiIGxC1dA-ClY6E";
 
     public static final String FIREBASE_APP_ID =
-            "1:255858934285:android:97286f89ba1844246e8b44";
+            "1:125879710853:android:b8d6c277f6d9bae15ce5ec";
 
     public static final String FIREBASE_PROJECT_ID =
-            "probrowser-89ad2";
+            "probrokers-app";
 
     public static final String FIREBASE_DATABASE_URL =
-            "https://probrowser-89ad2-default-rtdb.firebaseio.com";
+            "https://probrokers-app-default-rtdb.firebaseio.com";
 }
